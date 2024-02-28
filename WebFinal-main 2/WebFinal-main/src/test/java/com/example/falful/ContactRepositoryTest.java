@@ -1,6 +1,5 @@
 package com.example.falful;
 
-
 import com.example.falful.entity.Contact;
 import com.example.falful.repo.ContactRepo;
 import org.assertj.core.api.Assertions;
